@@ -1,6 +1,6 @@
 # Intro
 
-This repo contains code and documentation for the "Secure by Design" and "Defence in Depth" workshop. It is divided in to three parts: [SalesClient](SalesClient), [SalesApi](SalesApi) and [Tests](Tests). Each of the directories has a separate README-file containing the workshop guides. For each step in the individual parts, there are sub directories containing a solution to the tasks given. If you didn't manage to complete a assignment, you can start the next one using the solution-directory for the previous step. When starting 'Step 2 - Token transformation' in the SalesApi part, you can use the '1-token-validation'-directory as a starting point.
+This repo contains code and documentation for the "Secure by Design" workshop. The [SalesApi](SalesApi) directory has a separate README-file containing the workshop guide. The directory also contains sub directories with a solution to the tasks given and an extended solution with more improvements.
 
 ## Architecture
 
@@ -14,11 +14,9 @@ We have setup a Idp instance using Auth0 which we will use throughout the worksh
 
 ## Workshop
 
-The workshop is divided into 3 main parts. Follow the links for the workshop guide for each step
+Link to the workshop:
 
-- [**Part 1 - Secure API**](./SalesApi)
-- [**Part 2 - Testing**](./Tests)
-- [**Part 3 - Secure Client**](./SalesClient)
+- [**Secure API**](./SalesApi)
 
 # Workshop done
 
