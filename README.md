@@ -20,13 +20,13 @@ Link to the workshop:
 
 # Workshop done
 
-Congrats, you are now done. If you have time left, feel free to improve your app.
+Congrats, you are now done!
 
-Suggested improvements:
+If you have time left and want to learn more about this topic, we invite you to
+check out the complete workshop in
+[this](https://github.com/Omegapoint-Norge-Academy/secure-by-design) repository.
 
-- Add anti-forgery token for protection against CSRF from sub domains.
-- Add Content Security Policy (CSP) for protection against cross-site scripting (XSS)
-- Implement a server side session store by implementing the `ITicketStore` interface. Can be configured in cookie options.
-- Implement automatic refresh of tokens
-
-For additional suggestions for improvements, ask your course teachers.
+The workshop you just completed is part of this larger workshop as part 1, step 6.
+This longer workshop gives you the freedom to explore 
+the parts that interest you, whether that is server-side or client-side
+authentication or security-testing.
